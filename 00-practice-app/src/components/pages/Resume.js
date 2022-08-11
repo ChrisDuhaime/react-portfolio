@@ -7,6 +7,7 @@ export default function Resume() {
       <p>
         resume
       </p>
+      <img className="mx-auto d-block border"  src="images/Screenshot 2022-07-12 111256.png" alt="resume"></img>
     </div>
   );
 }
