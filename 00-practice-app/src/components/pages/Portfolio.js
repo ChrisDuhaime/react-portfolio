@@ -1,6 +1,6 @@
 import React from 'react';
 
-<img className="mx-auto d-block border"  src={require('../../images/ResumeScreenshot.png')} alt="resume"></img>
+
 
 export default function Portfolio() {
   return (

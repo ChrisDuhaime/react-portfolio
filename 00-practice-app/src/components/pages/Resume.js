@@ -8,7 +8,7 @@ export default function Resume() {
       
       <a href={resume} download="Chris Duhaime Resume.odt"> Download Here </a>
  
-      <img className="mx-auto d-block border"  src={require('../../images/ResumeScreenshot.png')} alt="resume"></img>
+      <img className="mx-auto d-block border"  src={require('../../images/updated resume screenshot.png')} alt="resume"></img>
     </div>
   );
 }
